@@ -14,7 +14,7 @@
     <p>To use the tool, you need to have Python installed on your system. Follow these steps:</p>
     <ol>
         <li>Clone the repository:</li>
-        <pre><code>git clone https://github.com/MananChandna/Command-line-tool</code></pre>
+        <pre><code>git clone https://github.com/MananChandna/Command-line-tool.git</code></pre>
         <li>Navigate to the project directory:</li>
         <pre><code>cd your-repo</code></pre>
         <li>Install the required dependencies:</li>
