@@ -1,4 +1,4 @@
-![image](https://github.com/MananChandna/Command-line-tool/assets/139998502/9bede363-353f-44da-9140-579f53609b25)
+![image](https://github.com/MananChandna/Command-line-tool/assets/139998502/5c963bf4-3c22-4126-b73c-c5e8f470123c)
 
 <!DOCTYPE html>
 <html lang="en">
